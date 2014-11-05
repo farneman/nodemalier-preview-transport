@@ -1,0 +1,35 @@
+{
+  "name": "nodemailer-preview-transport",
+  "version": "0.1.1",
+  "description": "Browser preview transport for Nodemailer",
+  "main": "src/preview-transport.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/farneman/nodemailer-preview-transport.git"
+  },
+  "keywords": [
+    "Browser",
+    "Preview",
+    "Nodemailer"
+  ],
+  "author": "Josh Farneman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farneman/nodemailer-preview-transport/issues"
+  },
+  "homepage": "http://github.com/farneman/nodemailer-preview-transport",
+  "dependencies": {
+    "jade": "^1.7.0",
+    "open": "0.0.5"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-mocha-test": "~0.10.0",
+    "sinon": "^1.9.0"
+  }
+}
