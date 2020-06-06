@@ -23,7 +23,7 @@
   "homepage": "http://github.com/farneman/nodemailer-preview-transport",
   "dependencies": {
     "jade": "^1.7.0",
-    "open": "0.0.5"
+    "open": "7.0.4"
   },
   "devDependencies": {
     "chai": "~1.8.1",
